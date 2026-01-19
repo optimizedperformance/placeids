@@ -1,1 +1,14 @@
-98017801854181
+{
+  "games": [
+    {
+      "placeId": 18519254033,
+      "category": "Battlegrounds",
+      "description": "i'm getting jumped in jump showdown"
+    },
+    {
+      "placeId": 9391468976,
+      "category": "Battlegrounds",
+      "description": "what are you doing"
+    }
+  ]
+}
