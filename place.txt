@@ -4,6 +4,6 @@
       "placeId": 78742110572902,
       "category": "criminality",
       "description": "uploaded by ant"
-    },
+    }
   ]
 }
