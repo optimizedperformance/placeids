@@ -1,9 +1,14 @@
 {
   "games": [
     {
-      "placeId": 95832122387407,
+      "placeId": 115015042028547,
       "category": "SF",
       "description": "iris"
+    },
+    {
+      "placeId": 125996395922577,
+      "category": "SF",
+      "description": "vin"
     }
   ]
 }
