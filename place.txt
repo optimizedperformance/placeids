@@ -8,7 +8,7 @@
     {
       "placeId": 125996395922577,
       "category": "SF",
-      "description": "vin"
+      "description": "vin | game version: 7"
     }
   ]
 }
