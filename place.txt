@@ -4,11 +4,6 @@
       "placeId": 95832122387407,
       "category": "SF",
       "description": "iris"
-    },
-    {
-      "placeId": 103495710729409,
-      "category": "SF",
-      "description": "tzp"
     }
   ]
 }
