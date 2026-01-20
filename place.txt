@@ -1,8 +1,9 @@
 {
+  "games": [
     {
-      "placeId": 119476100567957,
-      "category": "SF",
-      "description": "iris"
+      "placeId": 128585065901674,
+      "category": "No Games Online",
+      "description": "if you see this, there is no current games online, please be patient."
     }
   ]
 }
