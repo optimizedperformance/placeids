@@ -1,8 +1,8 @@
 {
   "games": [
     {
-      "placeId": 133664701870366,
-      "category": "C",
+      "placeId": ,
+      "category": "",
       "description": "Nasty"
     }
   ]
