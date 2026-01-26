@@ -1,9 +1,14 @@
 {
   "games": [
     {
-      "placeId": ,
-      "category": "",
-      "description": "Nasty"
+      "placeId": 35353345345 ,
+      "category": "C",
+      "description": "ant"
+    },
+    {
+      "placeId": 35353345345 ,
+      "category": "C",
+      "description": "ant"
     }
   ]
 }
