@@ -4,11 +4,6 @@
       "placeId": 345345345,
       "category": "C",
       "description": "ant"
-    },
-    {
-      "placeId": 345345345,
-      "category": "C",
-      "description": "ant"
     }
   ]
 }
